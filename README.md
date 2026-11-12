@@ -5,7 +5,6 @@
 ## 🚀 Что уже работает (v1.0)
 * Перевод исходного времени (часы, минуты, секунды) в единый формат.
 * Выбор популярной скорости воспроизведения в цикле.
-* Защита от ввода некорректной скорости.
 
 ## 🛠 План будущих обновлений (Roadmap)
 * [ ] **v1.1:** Точный расчёт времени с точностью до секунды.
@@ -21,7 +20,6 @@ A simple and handy Python calculator to quickly calculate watch time for videos,
 ## 🚀 Current Features (v1.0)
 * Converts initial time (hours, minutes, seconds) into a unified format.
 * Interactive loop for selecting popular playback speeds.
-* Basic input validation for incorrect speed values.
 
 ## 🛠 Roadmap
 * [ ] **v1.1:** Exact time calculation down to the second.
