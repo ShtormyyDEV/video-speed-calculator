@@ -22,7 +22,7 @@ A simple and handy Python calculator to quickly calculate watch time for videos,
 * Interactive loop for selecting popular playback speeds.
 
 ## 🛠 Roadmap
-* [ ] **v1.1:** Exact time calculation down to the second.
+* [x] **v1.1:** Exact time calculation down to the second.
 * [ ] **v2.0:** Graphical user interface (window with input fields and buttons using Tkinter).
 * [ ] **v2.1:** Protection against clicking buttons when input fields are empty.
 * [ ] **v2.2:** Custom background color and dark theme support.
